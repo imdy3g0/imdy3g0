@@ -10,6 +10,4 @@
 
 ---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/imdy3g0/imdy3g0/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imdy3g0&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
