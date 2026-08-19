@@ -10,6 +10,4 @@
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=imdy3g0&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
-
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=imdy3g0&theme=highcontrast)](https://git.io/streak-stats)
