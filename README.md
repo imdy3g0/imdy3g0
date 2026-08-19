@@ -11,10 +11,9 @@
 ---
 
 ## Statistics
-<div align="center">
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imdy3g0&theme=highcontrast&hide_border=true&fire=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" /></a>
 
-  
 ## Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imdy3g0&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
