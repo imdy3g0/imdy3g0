@@ -7,6 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imdy3g0&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31wynijhkcgvhxmhdhfr73fqebgi)
 
 ---
 
